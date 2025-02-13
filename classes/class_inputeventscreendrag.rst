@@ -13,6 +13,7 @@ InputEventScreenDrag
 **Inherits:** :ref:`InputEventFromWindow<class_InputEventFromWindow>` **<** :ref:`InputEvent<class_InputEvent>` **<** :ref:`Resource<class_Resource>` **<** :ref:`RefCounted<class_RefCounted>` **<** :ref:`Object<class_Object>`
 
 Represents a screen drag event.
+Only works if emulate_touch_from_mouse is enabled in project settings (Input Devices > Pointing > Emulate Touch From Mouse).
 
 .. rst-class:: classref-introduction-group
 
